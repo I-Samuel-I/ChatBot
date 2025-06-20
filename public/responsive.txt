@@ -1,0 +1,26 @@
+/* Smartphones (600px para baixo) */
+@media (width <= 600px) {...}
+
+/* Dispositivos um pouco maiores, mas ainda pequenos (Pequenos Tablets e Smartphones + largos, 600px para cima) */
+@media (600px < width <= 767px) {...}
+
+/* Dispositivos Médios (Tablets deitados, 768px para cima) * /
+@media (767px < width <= 991px) {...}
+
+/* Dispositivos Largos (laptops/desktops, 992px para cima) */
+@media (991px < width <= 1199px) {...}
+
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
+@media (width >= 1200px) {...}
+
+
+TELAS ESPECIFICAS:
+
+Computadores:
+
+@media (max-width : 1440px) and (max-height: 800px) {}
+
+Celulares pequenos:
+
+Largura máxima 350px
+Altura máxima 599px
