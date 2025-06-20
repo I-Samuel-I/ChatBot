@@ -6,7 +6,7 @@ export default function Login() {
     <>
       <S.LoginContainer>
         <S.LoginImagePanel>
-          <img src={Img.RegisterImg} alt="Register" />
+         
         </S.LoginImagePanel>
         <LoginForms/>   
       </S.LoginContainer>
